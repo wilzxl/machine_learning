@@ -1,8 +1,9 @@
 # machine_learning
--- Based on provided information of passengers on the Titanic (from Kaggle), 
+* Based on provided information of passengers on the Titanic (from Kaggle), 
 this project is aimed at conducting analysis of how these elements are related 
 to being survived in the sinking or not, followed by evaluation with model built.
-Three data files named “train.csv”, “test.csv”, and “gender_submission.csv” are given, 
+
+* Three data files named “train.csv”, “test.csv”, and “gender_submission.csv” are given, 
 representing training data, testing data and true results of testing data respectively. 
 In test file, the survived data are removed and stored in the last file for prediction and 
 accuracy calculation. Information of 1309 passengers is provided while 891 of them are training data.
